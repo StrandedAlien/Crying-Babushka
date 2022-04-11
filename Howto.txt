@@ -1,0 +1,31 @@
+Simple Demo how to apply Shapekeys
+
+- Desktop-PC Version.
+- Accompanying music recommendation: https://www.youtube.com/watch?v=6xckBwPdo1c 
+- Start and Reset with Space key.
+
+Crying Babushka
+
+Tool used:
+https://github.com/the3dadvantage/Modeling-Cloth-2_8
+Colburns plugin sports its own cloth physics. VERY easy to use.
+Just play around, you´ll figure it out. Questions are welcome.
+It generates a shapekey for each animation. 
+
+Howto:
+- Install above plugin. It runs perfectly under 2.93 and is a lot easier
+ to use than the updated version he also offers. Consider support.
+- Choose your collision oject first.
+- View 3D- N Panel-Extended Tools-Push set collider button
+- Choose cloth object
+- View 3D- N Panel-Extended Tools-Push Modeling cloth button
+- Play with the update buttons and Grab and Reset.
+- Under Object Data Properties-Shapekeys (green triangle icon) select
+  the third key "modeling cloth key" and play with the value slider underneath
+
+Hehe! Thats it. Njoy!
+
+PS- See this post how to publish game/demo 4 free on Github:
+https://forums.armory3d.org/t/how-to-publish-html5-on-github-page-right-solved/4702/2
+
+From a stranded alien 3d-Penguin. We come in peace ;-)
